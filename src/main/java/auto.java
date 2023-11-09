@@ -2,7 +2,7 @@ public class auto {
     private String marke;
     private String model;
     private int speedMax;
-    public auto(String pMarke,String pModel,int pSpeedMax){
+    public auto(String pMarke,String pModel,int     pSpeedMax){
         this.marke = pMarke;
         this.model = pModel;
         this.speedMax = pSpeedMax;

@@ -1,6 +1,6 @@
 public class auto {
-    private String marke;
-    private String model;
+    private final String marke;
+    private final String model;
     private int speedMax;
     public auto(String pMarke,String pModel,int pSpeedMax){
         this.marke = pMarke;

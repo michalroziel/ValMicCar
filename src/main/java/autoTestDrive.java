@@ -4,5 +4,7 @@ public class autoTestDrive {
     public static void main(String[] args) {
     auto car1 = new auto("Volkswagen","Golf 8",240);
     car1.drive();
+    car1.tuning(267);
+
     }
 }
